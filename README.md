@@ -5,3 +5,5 @@ An example Spring MVC application that has an REST interface. The application ut
 - Apache Maven Build Automation Framework
 - Serenity BDD Test Automation Framework
 - Docker Container for Distribution (https://hub.docker.com/r/asburymr/digitalcredit)
+
+Edit 1
