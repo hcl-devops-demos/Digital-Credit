@@ -45,7 +45,7 @@ public class SwaggerConfig {
 		 
 	private ApiInfo apiInfo() {
 		ApiInfo apiInfo = new ApiInfo ("Digital Credit API",
-									   "Digital Credit API provides Administration and User functionality through API Endpoints...",
+									   "Digital Credit API provides Administration and User functionality through API Endpoints.",
 									   "API TOS",
 									   "Terms of Service",
 									   new Contact("Digital Credit",
